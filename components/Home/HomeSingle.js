@@ -63,6 +63,9 @@ const HomeSingle = ({ homepage }) => {
       <div method="get" className="mx-[0.25%] border-[3px] rounded-md border-black border-solid">
         <center>
           <br />
+    <h1 className="font-normal leading-normal mt-0 mb-2 font-bold mx-2 text-[1xl] sm:text-2xl">
+            Welcome To JNTUH Results
+          </h>
           <h2 className="font-normal leading-normal mt-0 mb-2 font-bold mx-2 text-[1xl] sm:text-2xl">
             Grades of All Semesters of Particular Student
           </h2>

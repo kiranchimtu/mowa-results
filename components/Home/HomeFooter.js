@@ -21,10 +21,10 @@ const HomeFooter = ()=>
             </Link>
         </p>
         <p className="mt-1 block text-left mx-[12%] text-center mb-4 text-[67%] sm:text-[100%]">
-            If you found this app helpful, you can support me by &nbsp;
-            <Link href="https://www.buymeacoffee.com/thilakreddy" >
+          If you found this app useful, please support me by . &nbsp;
+            <Link href="https://jntuh.co.in/" >
                 <a className="font-bold text-[#9C1A8B]">
-                    buying me a pizza here.
+                    sharing it with your friends.
                 </a>
             </Link>
         </p>

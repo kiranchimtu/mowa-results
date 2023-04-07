@@ -24,7 +24,7 @@ const HomeBanner = ({ closeBanner }) => {
                     <small>Get your Results with your CGPA in a second</small>
                     <br />
                     <br />
-                    <div>Please follow this link to access all of the llJNTUH RESULTS.
+                    <div>Please follow this link to access all of the JNTUH RESULTS.
                         <a>
                             <Link href="https://jntuh-results-stats.org/">
                                 <strong className="hover:cursor-pointer"> CLICK HERE</strong>

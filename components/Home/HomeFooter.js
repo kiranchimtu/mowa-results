@@ -13,7 +13,7 @@ const HomeFooter = ()=>
     <>
 
         <p className="mt-1 block text-left mx-[12%] text-center mb-4 text-[65%] sm:text-[100%]">
-            Made with ❤ by &nbsp;
+           hello &nbsp;
             <Link href="https://github.com/ThilakReddyy/" >
                 <a target="_blank" className="font-bold text-[#9C1A8B]" >
                     Thilak Reddy

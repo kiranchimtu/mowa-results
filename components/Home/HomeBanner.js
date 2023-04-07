@@ -13,20 +13,20 @@ const HomeBanner = ({ closeBanner }) => {
                     <div>This is a newer version of &nbsp;
                     <br/>
                         <a>
-                            <Link href="https://jntuhresults.vercel.app/">
+                            <Link href="https://jntuhresults.org/">
                                 <strong>
                                     JNTUH Results
                                 </strong>
                             </Link>
                         </a>
                     </div>
-                    <img src='./logo.png' href="https://jntuhresults.vercel.app/" className="w-[60px]  sm:w-[120px]" />
+                    <img src='./logo.png' href="https://jntuhresults.org/" className="w-[60px]  sm:w-[120px]" />
                     <small>Get your Results with your CGPA in a second</small>
                     <br />
                     <br />
                     <div>Check out the another Version of JNTUH RESULTS
                         <a>
-                            <Link href="https://jntuh-results-stats.vercel.app/">
+                            <Link href="https://jntuh-results-stats.org/">
                                 <strong className="hover:cursor-pointer"> here</strong>
                             </Link>
                         </a>

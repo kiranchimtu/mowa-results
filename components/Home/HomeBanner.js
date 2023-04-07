@@ -4,7 +4,7 @@ import Link from "next/link";
 const HomeBanner = ({ closeBanner }) => {
     return (
         <>
-            <center className='mx-[10%]  shadow-2xl rounded-md border-1 border-black border-solid bg-stone-200'>
+            <center className='mx-[10%]  shadow-2xl rounded-md border-1 border-blue border-solid bg-stone-200'>
                 <button className="absolute right-[11.7%] sm:right-[11%]" onClick={closeBanner}>
                     [x]
                 </button>

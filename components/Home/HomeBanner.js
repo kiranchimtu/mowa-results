@@ -27,7 +27,7 @@ const HomeBanner = ({ closeBanner }) => {
                     <div>Please follow this link to access all of the JNTUH RESULTS.
                         <a>
                             <Link href="https://jntuh-results-stats.org/">
-                                <strong className="hover:cursor-pointer"> here</strong>
+                                <strong className="hover:cursor-pointer"> CLICK HERE</strong>
                             </Link>
                         </a>
                     </div>

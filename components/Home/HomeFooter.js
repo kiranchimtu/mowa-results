@@ -13,7 +13,7 @@ const HomeFooter = ()=>
     <>
 
         <p className="mt-1 block text-left mx-[12%] text-center mb-4 text-[65%] sm:text-[100%]">
-           If You Not Found The Result &nbsp;
+           If You Not Found The Results &nbsp;
             <Link href="https://jntuh.co.in/jntuh-results/" >
                 <a target="_blank" className="font-bold text-[#9C1A8B]" >
                     CLICK HERE

@@ -51,19 +51,15 @@ const Header = () => {
         >
         </script>
       </Head>
-      <Script
-        src="https://www.googletagmanager.com/gtag/js?id=G-6CR1W425NE"
-        strategy="afterInteractive"
-      />
-      <Script id="google-analytics" strategy="afterInteractive">
-        {`
-        window.dataLayer = window.dataLayer || [];
-          function gtag(){dataLayer.push(arguments);}
-          gtag('js', new Date());
+      <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-4B09S1N7EL"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
 
-          gtag('config', 'G-6CR1W425NE');
-        `}
-      </Script>
+  gtag('config', 'G-4B09S1N7EL');
+</script>
     </>
   )
 }
